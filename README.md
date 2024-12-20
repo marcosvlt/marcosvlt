@@ -24,7 +24,13 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-1F3000?logo=yaml&logoColor=white) 
 
 ### 🔒 Security & Monitoring:
-- ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4C00?logo=amazon-cloudwatch&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-00B5E2?logo=grafana&logoColor=white) 
+- ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4C00?logo=amazon-cloudwatch&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-00B5E2?logo=grafana&logoColor=white)
+
+### My Projects
+
+- [ShellScripts](https://github.com/marcosvlt/ShellScript/tree/main/Scripts)
+- [JavaScript](https://github.com/marcosvlt/JavaScript)
+- [Django API Demo](https://github.com/marcosvlt/DjangoAPIDemo)
 
 ## 🤝 Open to Collaboration
 I'm always interested in working with other cloud engineers, DevOps teams, and developers on exciting projects. Feel free to reach out!

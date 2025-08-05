@@ -3,11 +3,14 @@
 I'm a passionate Cloud Engineer with a strong background in cloud computing, automation, and infrastructure management. I specialize in designing and deploying scalable and secure cloud solutions using AWS.
 
 ## 💼 Certifications
-- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
+
+- ![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Professional-FF9900?logo=amazon-aws&logoColor=white)
 - ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-FF9900?logo=amazon-aws&logoColor=white)
 - ![AWS Certified SysOps Administrator – Associate](https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20-%20Associate-FF9900?logo=amazon-aws&logoColor=white)
 - ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified%20Developer%20-%20Associate-FF9900?logo=amazon-aws&logoColor=white)
-- ![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Professional-FF9900?logo=amazon-aws&logoColor=white)
+- ![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS%20Certified%20Data%20Engineer%20-%20Associate-FF9900?logo=amazon-aws&logoColor=white)
+- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
+
 
 
 
@@ -18,7 +21,7 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 
 
 ### 🛠️ DevOps & Infrastructure:
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42B2?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-009C8C?logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42B2?logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-009C8C?logo=ansible&logoColor=white) 
 
 ### 💻 Programming & Scripting:
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-1F3000?logo=yaml&logoColor=white) 
@@ -30,6 +33,7 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 
 - [ShellScripts](https://github.com/marcosvlt/ShellScript/tree/main/Scripts)
 - [Lab Terraform, Ansible, Apache2, Docker and container with Golang](https://github.com/marcosvlt/IaC-teste)
+- [Docker Testes](https://github.com/marcosvlt/Docker-Testes)
 - [JavaScript](https://github.com/marcosvlt/JavaScript)
 - [Django API Demo](https://github.com/marcosvlt/DjangoAPIDemo)
 

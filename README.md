@@ -32,6 +32,7 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 ### My Projects
 
 
+- [AWS API to create resources](https://github.com/marcosvlt/AWS-API)
 - [Docker Nginx NodeJS MongoDB Notes App with Docker Compose](https://github.com/marcosvlt/Docker-REST-API-Note-app)
 - [Docker Testes](https://github.com/marcosvlt/Docker-Testes)
 - [Kubernetes Testes](https://github.com/marcosvlt/Kubernetes-Testes)

@@ -36,6 +36,8 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 - [Docker Nginx NodeJS MongoDB Notes App with Docker Compose](https://github.com/marcosvlt/Docker-REST-API-Note-app)
 - [Docker Testes](https://github.com/marcosvlt/Docker-Testes)
 - [Kubernetes Testes](https://github.com/marcosvlt/Kubernetes-Testes)
+- [API Webpage Text Extraction and Translation using Azure OpenAI](https://github.com/marcosvlt/Azure-testes/tree/main/AI/openAI/tradutor)
+- [API Document Fraud Detection System with Azure AI](https://github.com/marcosvlt/Azure-testes/tree/main/AI/docs/Anti-fraud)
 - [Azure Testes](https://github.com/marcosvlt/Azure-testes)
 - [ShellScripts](https://github.com/marcosvlt/ShellScript/tree/main/Scripts)
 - [Lab Terraform, Ansible, Apache2, Docker and container with Golang](https://github.com/marcosvlt/IaC-teste)

@@ -20,7 +20,7 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 ## 💻 Technologies & Tools
 
 ### ☁️ Cloud Platforms:
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 
 ### 🛠️ DevOps & Infrastructure:

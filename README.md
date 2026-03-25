@@ -12,6 +12,9 @@ I'm a passionate Cloud Engineer with a strong background in cloud computing, aut
 - ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
 
 
+- ![Azure Administrator](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?logo=microsoftazure&logoColor=white)
+
+
 
 
 ## 💻 Technologies & Tools
